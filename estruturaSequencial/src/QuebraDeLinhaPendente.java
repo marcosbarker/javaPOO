@@ -6,6 +6,7 @@ public class QuebraDeLinhaPendente {
 
 			Scanner sc = new Scanner(System.in);
 
+			@SuppressWarnings("unused")
 			int x;
 			String s1, s2, s3;
 			
