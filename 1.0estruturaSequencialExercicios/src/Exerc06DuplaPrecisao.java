@@ -27,7 +27,7 @@ Entrada: 		Saída:
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exer06DuplaPrecisao {
+public class Exerc06DuplaPrecisao {
 
 	public static void main(String[] args) {
 
@@ -64,7 +64,7 @@ public class Exer06DuplaPrecisao {
 import java.util.Locale;
 import java.util.Scanner;
 
-public class uri1012 {
+public class Exerc06DuplaPrecisao {
 
 	public static void main(String[] args) {
 

@@ -26,9 +26,10 @@ public class Exerc05PecasValores {
 
 		Scanner sc = new Scanner(System.in);
 		
+		@SuppressWarnings("unused")
 		int cod1, cod2, numPecas1, numPecas2;
 		double valorPeca1, valorPeca2, calc;
-		
+				
 		cod1 = sc.nextInt();
 		numPecas1 = sc.nextInt();
 		valorPeca1 = sc.nextDouble();
@@ -52,7 +53,7 @@ public class Exerc05PecasValores {
 import java.util.Locale;
 import java.util.Scanner;
 
-public class uri1010 {
+public class Exerc05PecasValores {
 
 	public static void main(String[] args) {
 
